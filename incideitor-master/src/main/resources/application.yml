@@ -1,6 +1,0 @@
-spring:
-  main.banner-mode: off
-  profiles:
-    active: desarrollo
-  main:
-    allow-bean-definition-overriding: false
