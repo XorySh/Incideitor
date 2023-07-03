@@ -45,7 +45,7 @@ header[class~=tittle] {
 /* Tutorial*/
 
 .tutorial {
-    background-image: url(wall.jpg);
+    background-image: url(/img/wall.jpg);
 }
 
 .video_tutorial {
